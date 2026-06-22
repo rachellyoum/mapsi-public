@@ -185,7 +185,7 @@ MAPSI was a meaningful project because it allowed me to work on backend developm
 
 ## Credits
 
-This was a group school project.
+This was a group project.
 
 My main contributions included:
 
