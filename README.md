@@ -4,8 +4,6 @@
 
 MAPSI is an AI-powered travel planning application that helps users generate realistic and structured travel itineraries based on their preferences, destination, budget, and schedule. The app combines user input with external travel data to create personalized trip plans, supported by a backend system built with FastAPI, Firebase, PostgreSQL, Redis, OpenAI, Google Places, Google Maps, and Amadeus APIs.
 
-This project was originally built as a group school project. This repository is a cleaned public portfolio version, with private course materials and sensitive configuration files removed.
-
 ## Motivation
 
 The motivation behind MAPSI came from how difficult and time-consuming travel planning can be. Planning a trip often requires users to search across multiple platforms for destinations, activities, flights, maps, and schedules. Our goal was to create an application that could simplify this process by using AI and travel APIs to generate organized, realistic itineraries in one place.
