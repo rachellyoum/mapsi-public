@@ -32,16 +32,16 @@ For me, this project was also an opportunity to gain practical experience in bac
 
 ## Outline
 
-* Backend developed using Python and FastAPI.
-* Authentication and user system implemented with Firebase.
-* Database built using PostgreSQL with SQLAlchemy.
-* AI itinerary generation powered by OpenAI.
-* Travel and location data integrated through Google Places, Google Maps, and Amadeus APIs.
-* Redis caching used to improve performance and reduce repeated external API calls.
+* Backend developed using [Python](https://www.python.org/) and [FastAPI](https://fastapi.tiangolo.com/).
+* Authentication and user system implemented with [Firebase](https://firebase.google.com/).
+* Database built using [PostgreSQL](https://www.postgresql.org/) with [SQLAlchemy](https://www.sqlalchemy.org/).
+* AI itinerary generation powered by the [OpenAI API](https://platform.openai.com/docs/overview).
+* Travel and location data integrated through [Google Places API](https://developers.google.com/maps/documentation/places/web-service), [Google Maps API](https://developers.google.com/maps), and [Amadeus API](https://developers.amadeus.com/).
+* [Redis](https://redis.io/) caching used to improve performance and reduce repeated external API calls.
 * REST APIs developed for trip management, itinerary editing, and collaborative features.
 * Backend services deployed and configured for use outside the local development environment.
-* Frontend developed as an iOS application using Swift and SwiftUI.
-* Developed through a team-based GitHub workflow.
+* Frontend developed as an iOS application using [Swift](https://www.swift.org/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/).
+* Developed through a team-based [GitHub](https://github.com/) workflow.
 
 ## Usage
 
@@ -198,20 +198,15 @@ My main contributions included:
 
 ## Badges
 
-Python
-FastAPI
-Firebase
-PostgreSQL
-SQLAlchemy
-Redis
-OpenAI API
-Google Places API
-Google Maps API
-Amadeus API
-REST APIs
-Backend Development
-Deployment
-Swift
-SwiftUI
-Git
-GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge\&logo=swift\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge\&logo=swift\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
