@@ -98,9 +98,23 @@ backend/
 ### Trip Management
 
 * REST API support for creating and managing trips
+* Place search interface for destination and location selection
 * Backend support for itinerary editing
 * Database-backed trip storage
 * API structure designed for future collaborative planning features
+
+### Social Features
+
+* Friend request system for connecting users
+* Collaborative trip planning with invited friends
+* Friendship relationship data stored in the database
+* Public and private trip visibility settings
+* Trending public trips ranked by views, likes, and copies
+
+### Flight Search
+
+* Flight offer search powered by the Amadeus API
+* Flight results based on departure and destination locations and travel dates
 
 ### External API Integrations
 
